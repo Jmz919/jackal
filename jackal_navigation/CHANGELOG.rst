@@ -2,6 +2,10 @@
 Changelog for package jackal_navigation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.2 (2019-07-05)
+------------------
+* Depends on cartographer instead of gmapping
+
 0.6.1 (2018-08-02)
 ------------------
 
