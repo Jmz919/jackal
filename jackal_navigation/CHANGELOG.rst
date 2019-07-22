@@ -2,6 +2,10 @@
 Changelog for package jackal_navigation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.3(2019-07-22)
+------------------
+*Twist_mux and ps4 controller update
+
 0.6.2 (2019-07-05)
 ------------------
 * Removed dependency on gmapping

@@ -2,6 +2,12 @@
 Changelog for package jackal_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.3 (2019-07-18)
+------------------
+
+0.6.2 (2019-04-18)
+------------------
+
 0.6.1 (2018-08-02)
 ------------------
 * Added missing twist_mux.yaml.  Fixed malformed meshes
